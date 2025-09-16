@@ -1,1 +1,1 @@
-print('hello neighbor')
+print('0')
